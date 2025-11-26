@@ -16,7 +16,7 @@ public class AzureBasicAppApplication {
 	@GetMapping("/hello")
 	public String ABC() {
 		
-		return "bdkjfghks";
+		return "bdkjfghkssdsdsd";
 	}
 
 }
